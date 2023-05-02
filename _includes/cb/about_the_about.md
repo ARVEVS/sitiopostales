@@ -9,16 +9,10 @@
 
 ## About the About Page
 
-We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
+El objetivo del proyecto es conservar las postales y ponerlas a disposición de entusiastas de la historia, investigadores, profesores y estudiantes en formato digital. Los usuarios pueden buscar, navegar, ordenar y seleccionar temas, lugares y edificios destacables de las ciudades europeas a inicios del siglo XX.El proyecto contiene alrededor de un centenar de postales digitalizadas con información sobre su procedencia, ubicación geográfica, temas, descripción, fecha (cuando fue posible) y metadatos como color, medidas y tipo de archivo (application/pdf). El proceso incluyó la digitalización de las postales, la identificación de su ubicación geográfica, el ordenamiento y clasificación en carpetas, y enriquecimiento con datos y metadatos. Finalmente, se utilizaron estas postales para poblar el Collection Builder. El repositorio forma parte del Curso de Humanidades Digitales de la Ibero en primavera 2023.
 
-The template comes with a customizable "About" page layout designed for long form content with rich media embeds.
-Content is written in [Markdown](https://guides.github.com/features/mastering-markdown/) and enhanced using "includes" that pull in collection content, external media, and [Bootstrap](https://getbootstrap.com/) features like cards and modals.
-We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information. 
+Si desea colaborar, puede ponerse en contacto a través del siguiente enlace: https://arvevs.github.io/sitiopostales/ 
 
-Each "include" file has several options, which are documented in the files themselves--copy the examples to see how it works with your content! 
-In the demo below, we've given display widths of 25% and 50% to save space, but you can feature the entire image or document.
-
-You can also see a page featuring [a bonanza of feature includes options](https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html) on our CollectionBuilder-GH demo site. 
 
 {% include feature/button.html text="Feature *Includes* Bonanza page" link="https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html" color="primary" size="lg" centered=true %}
 
