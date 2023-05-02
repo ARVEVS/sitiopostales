@@ -19,11 +19,11 @@ objectid,filename,title,format,latitude,longitude,date,subject,location,descript
 017,C2-G2-017.pdf,Caballero de Rojo,application/pdf,41.902222,12.453333,1912,Persona,Ciudad del Vaticano,Ilustración a color de un caballero de rojo,It
 018,C2-G2-018.pdf,Iglesia del Santo,application/pdf,45.407969,11.885861,1912,Iglesia,"Padua, Italia",Ilustración a color de la Iglesia del Santo,It
 019,C2-G2-019.pdf,Interior del Santuario de la Virgen de la Costa,application/pdf,43.815833,7.773056,1912,Santuario,"San Remo, Italia",Ilustración a color del interior del Santuario de la Virgen de la Costa,It
-020,C2-G2-020.pdf,Pintura de cerdos en Óleo,application/pdf,50.115278,8.684167,1912,Globo aerostático; baño; edificios; peatones,"Frankfurt, Alemania",Ilustración a color de una pintura de cerdos en óleo,De
+020,C2-G2-020.pdf,Pintura de cerdos en óleo,application/pdf,50.115278,8.684167,1912,Globo aerostático; baño; edificios; peatones,"Frankfurt, Alemania",Ilustración a color de una pintura de cerdos en óleo,De
 021,C2-G2-021.pdf,"""Señor, ¿a dónde vas?""",application/pdf,41.864161,12.493589,1912,Pasaje Bíblico,"Via Ardeatina 5, Roma",Ilustración a color de una pintura de Cristo,Fr
-022,C2-G2-022.pdf,Noches en Óleo,application/pdf,45.407969,11.885861,1912,Persona; mar,"Padua, Italia",Ilustración a color de una pintura de la noche en óleo,It
+022,C2-G2-022.pdf,Noches en óleo,application/pdf,45.407969,11.885861,1912,Persona; mar,"Padua, Italia",Ilustración a color de una pintura de la noche en óleo,It
 023,C2-G2-023.pdf,Pinacoteca de Brera,application/pdf,45.471955,9.187522,1912,Persona ,"Milán, Italia",Ilustración a color de una doncella en el pie de una iglesia,It
-024,C2-G2-024.pdf,Oficial Pictórico,application/pdf,41.902222,12.453333,1912,Persona,Ciudad del Vaticano,Ilustración a color de un oficial de uniformado,It
+024,C2-G2-024.pdf,Oficial uniformado,application/pdf,41.902222,12.453333,1912,Persona,Ciudad del Vaticano,Ilustración a color de un oficial de uniformado,It
 025,C2-G2-025.pdf,White Star Line,application/pdf,53.405471,-2.991572,1912,Personas,"Liverpool, Inglaterra",Fotografía sepia de una comida abordo del barco,En
 026,C2-G2-026.pdf,White Star Line,application/pdf,53.405472,-2.991573,1912,Personas ,"Liverpool, Inglaterra",Fotografía sepia de personas abordo del barco,En
 027,C2-G2-027.pdf,Jennie the old drum horse,application/pdf,51.0504,13.7373,1912,Persona parada con caballo,Inglaterra,Fotografía a color de un soldado con un caballo,En
@@ -76,7 +76,7 @@ objectid,filename,title,format,latitude,longitude,date,subject,location,descript
 074,C2-G2-074.pdf,Familia frente a edificio,application/pdf,45.4343,12.3388,1912,Personas; edificios,"Venecia, Italia",Fotografía en blanco y negro de una familia posando frente a un edificio ,It
 075,C2-G2-075.pdf,La familia real de Italia,application/pdf,45.4064,9.187522,1912,Personas; palomas,"Milan, Italia",Fotografía en blanco y negro de la familia real de Italia,It
 076,C2-G2-076.pdf,La señora y las palomas,application/pdf,45.4064,9.187522,1912,Persona; palomas; edificios,Milan; Italia,Fotografía en blanco y negro de una señora siendo rodeada por palomas frente a un edificio,It
-077,C2-G2-077.pdf,Jardin Público,application/pdf,45.4643,9.1901,1912,Personas,"Milan, Italia",Fotografía en blanco y negro de un jardín público con mujeres sentadas en una banca,It
+077,C2-G2-077.pdf,Jardin público,application/pdf,45.4643,9.1901,1912,Personas,"Milan, Italia",Fotografía en blanco y negro de un jardín público con mujeres sentadas en una banca,It
 078,C2-G2-078.pdf,Virgen e hijo de la galeria Pitti,application/pdf,43.7792500,11.2462600,1912,Virgen; hijo,"Florencia, Italia",Ilustración sepia de una pintura de Van Dyck de la virgen y el hijo parte de la galeria Pitti,It
 079,C2-G2-079.pdf,Niña con bastón,application/pdf,45.4667,9.1827,1912,Persona,"Milan, Italia",Fotografía sepia de una niña sosteniendo un bastón con grandes piedras de fondo,It
 080,C2-G2-080.pdf,Señoras posando con palomas,application/pdf,45.4700,9.1950,1912,Personas; palomas; edificios,"Milan, Italia",Fotografía en blanco y negro de un par de señoras con palomas posadas en sus brazos ,It
